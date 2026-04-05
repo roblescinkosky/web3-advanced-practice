@@ -1,5 +1,3 @@
-web3-advanced-practice README.md
-
 # web3-advanced-practice
 
 Web3 高级实战代码集 | 区块链加密算法、链上数据抓取、合约安全审计、Layer2基础、多链交互、NFT工具链，全场景实战脚本，可直接提交GitHub，适配开发者技术展示与项目复用。
